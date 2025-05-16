@@ -1,0 +1,4 @@
+- git:
+    local-name: src/velathrobotics_ros2-main
+    uri: https://github.com/VelathGroup/Blasting_robot.git
+    version: main
