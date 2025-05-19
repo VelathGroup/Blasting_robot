@@ -146,6 +146,3 @@ MIT License © Velath Engineering
 
 
 
-Pull requests are welcome. For major changes, open an issue first to discuss.
-
----
